@@ -2,7 +2,8 @@
 
 int main(){
     
-    int populacao1, pontosTuristicos1, populacao2, pontosTuristicos2;
+    int pontosTuristicos1, pontosTuristicos2;
+    long int populacao1, populacao2;
     float area1, pib1, area2, pib2;
     char estado1, codigoCarta1[3], codigo1[3], cidade1[20], estado2, codigoCarta2[3], codigo2[3], cidade2[20];
 
